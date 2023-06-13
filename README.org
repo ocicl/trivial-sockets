@@ -1,0 +1,10 @@
+* trivial-sockets
+
+A trivial networking library for undemanding Internet applications
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/usocket/trivial-sockets.git   |
+| commit  | b848a46  |
+| systems | trivial-sockets |
+|---------+-------------------------------------------|
+
